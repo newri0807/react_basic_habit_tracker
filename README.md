@@ -1,6 +1,6 @@
 # Habit Tracker
 
-https://5ff9919b0cc6c3eca6338702--newls-habit-tracker.netlify.app/
+https://newri0807.github.io/react_basic_habit_tracker/
 
 > 자신의 취미를 입력,수정,삭제 및 관리를 할 수 있는 리액트 앱입니다
 
